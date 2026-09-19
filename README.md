@@ -1,4 +1,8 @@
 ## This is a work-in-progress English patch for *Sakura no Kumo * Scarlet no Koi*.
+
+#### Progress:
+https://docs.google.com/spreadsheets/d/10jjUyXeAD1N9SqKZCAmCWgjg50AWk7K4MBgSjCw3QvU/edit?usp=sharing
+
 #### 2026/09/19
 Hi! I'm currently making an English patch for this game.
 
